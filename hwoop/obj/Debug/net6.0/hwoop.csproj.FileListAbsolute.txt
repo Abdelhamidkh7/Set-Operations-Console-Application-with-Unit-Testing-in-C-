@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\hwoop\hwoop\bin\Debug\net6.0\hwoop.exe
+C:\Users\lenovo\Documents\hwoop\hwoop\bin\Debug\net6.0\hwoop.deps.json
+C:\Users\lenovo\Documents\hwoop\hwoop\bin\Debug\net6.0\hwoop.runtimeconfig.json
+C:\Users\lenovo\Documents\hwoop\hwoop\bin\Debug\net6.0\hwoop.dll
+C:\Users\lenovo\Documents\hwoop\hwoop\bin\Debug\net6.0\hwoop.pdb
+C:\Users\lenovo\Documents\hwoop\hwoop\obj\Debug\net6.0\hwoop.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\hwoop\hwoop\obj\Debug\net6.0\hwoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\hwoop\hwoop\obj\Debug\net6.0\hwoop.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\hwoop\hwoop\obj\Debug\net6.0\hwoop.AssemblyInfo.cs
+C:\Users\lenovo\Documents\hwoop\hwoop\obj\Debug\net6.0\hwoop.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\hwoop\hwoop\obj\Debug\net6.0\hwoop.dll
+C:\Users\lenovo\Documents\hwoop\hwoop\obj\Debug\net6.0\refint\hwoop.dll
+C:\Users\lenovo\Documents\hwoop\hwoop\obj\Debug\net6.0\hwoop.pdb
+C:\Users\lenovo\Documents\hwoop\hwoop\obj\Debug\net6.0\hwoop.genruntimeconfig.cache
+C:\Users\lenovo\Documents\hwoop\hwoop\obj\Debug\net6.0\ref\hwoop.dll
